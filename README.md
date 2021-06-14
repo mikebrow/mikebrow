@@ -5,7 +5,3 @@
   <br>
   <img src="https://www.ibm.com/brand/systems/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" height="200">
 </p>
-
-<p align="center">
-  <img src="https://www.ibm.com/brand/systems/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" height="200">
-</p>
