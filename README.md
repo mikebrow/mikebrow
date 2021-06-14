@@ -1,1 +1,4 @@
-OSS Engineer for IBM; [containerd](https://github.com/containerd/containerd) maintainer; working [OCI](https://github.com/opencontainers/), [CNCF](https://www.cncf.io), and [Kubernetes](https://github.com/kubernetes/) projects; Inventor; Coach; Gamer; Father; Husband; collector of hobbies.
+<p align="center">
+<img src="https://kubernetes.io/images/favicon.png" width="50" height="50">
+<img src="https://containerd.io/img/logos/icon/black/containerd-icon-black.png" width="50" >
+</p>
